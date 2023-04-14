@@ -1,0 +1,12 @@
+[submodule "boost-system.1.58.0"]
+	path = boost-system.1.58.0
+	url = https://github.com/kench1994/boost-system.1.58.0.git
+	branch = main
+[submodule "cpprestsdk.2.10.18"]
+	path = cpprestsdk.2.10.18
+	url = https://github.com/kench1994/cpprestsdk.2.10.18.git
+	branch = main
+[submodule "openssl-1.0.2k"]
+	path = openssl-1.0.2k
+	url = https://github.com/kench1994/openssl-1.0.2k.git
+	branch = main
