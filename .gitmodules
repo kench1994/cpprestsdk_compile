@@ -10,3 +10,7 @@
 	path = openssl-1.0.2k
 	url = https://github.com/kench1994/openssl-1.0.2k.git
 	branch = main
+[submodule "boost"]
+	path = boost
+	url = https://github.com/boostorg/boost.git
+	branch = origin/boost-1.58.0
