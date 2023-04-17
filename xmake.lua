@@ -7,6 +7,7 @@ set_defaultmode("release")
 add_rules("mode.release", "mode.debug")
 
 includes(
+    "boost-system.1.58.0",
     "cpprestsdk.2.10.18"
 )
 
