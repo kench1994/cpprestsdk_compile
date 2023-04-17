@@ -4,12 +4,12 @@ else
     set_languages("cxx11", "c99")
 end
 set_defaultmode("release")
-add_rules("mode.release")
+add_rules("mode.release", "mode.debug")
 
 includes(
     "cpprestsdk.2.10.18"
 )
 
-on_clean(function (target)
+-- on_clean(function (target)
 
-end)
+-- end)
